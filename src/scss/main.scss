@@ -1,0 +1,21 @@
+// Add your styles
+#wp-react-plugin-starter-container {
+  .my-react-plugin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    backdrop-filter: blur(3px); /* Adjust blur intensity as needed */
+  }
+
+  .wrapper {
+    padding: 40px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+}
