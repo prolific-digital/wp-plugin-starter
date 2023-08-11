@@ -7,8 +7,7 @@ Enhance your WordPress site with the power of React!
 Tired of starting from scratch when developing WordPress plugins with React? Look no further! WP React Plugin Starter is your go-to solution for streamlining the process. This plugin provides you with a solid foundation, cutting out the fuss of setting up the build process and file structure. You can now go from idea to execution seamlessly, focusing on what truly matters - your plugin's functionality and user experience.
 
 > _I was tired of starting from scratch when developing WordPress plugins, especially when I wanted to use React, so this is my attempt at streamling that process so that you can go from idea to execution without the fuss of setting up the build process and file structure._
-
-_Chris Miller_
+> -_Chris Miller_
 
 This plugin provides a starting point for integrating React into your WordPress environment. It includes a basic setup for creating a React-powered admin interface within your WordPress dashboard.
 
